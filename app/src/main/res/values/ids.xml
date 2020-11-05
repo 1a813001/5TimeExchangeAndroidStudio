@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn1" type="id" />
+    <item name="editV1" type="id" />
+    <item name="editV2" type="id" />
+    <item name="editV3" type="id" />
+    <item name="editV4" type="id" />
+    <item name="editV5" type="id" />
+    <item name="editV6" type="id" />
+    <item name="set_ymd" type="id" />
+    <item name="set_hms" type="id" />
+    <item name="set_leapYear" type="id" />
+    <item name="year" type="id" />
+</resources>
